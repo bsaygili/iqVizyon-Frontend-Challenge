@@ -14,7 +14,6 @@
 
 ![7](https://user-images.githubusercontent.com/25987727/186393100-0fc456ff-1505-4e42-ae4a-961e94f56e96.png)
 
-
 ## Project setup
 
 If you don't have dockerDesktop, firstly install docker from https://www.docker.com/products/docker-desktop/ link. After installation please follow the steps below.
